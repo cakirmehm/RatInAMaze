@@ -1,0 +1,10 @@
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\bin\Debug\RatInAMaze.exe.config
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\bin\Debug\RatInAMaze.exe
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\bin\Debug\RatInAMaze.pdb
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\obj\Debug\RatInAMaze.csprojAssemblyReference.cache
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\obj\Debug\RatInAMaze.F_RatInAMaze.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\obj\Debug\RatInAMaze.Properties.Resources.resources
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\obj\Debug\RatInAMaze.csproj.GenerateResource.cache
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\obj\Debug\RatInAMaze.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\obj\Debug\RatInAMaze.exe
+C:\Users\mehmet\Documents\Visual Studio 2017\Projects\RatInAMaze\RatInAMaze\obj\Debug\RatInAMaze.pdb
